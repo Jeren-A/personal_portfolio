@@ -14,5 +14,18 @@
     "react-icons": "^4.2.0",
     "styled-components": "^5.3.0",
     "styled-normalize": "^8.0.7"
-  }
+  },
+  "description": "### [Live Site](https://jsmasterypro.com)",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeren-A/personal_portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeren-A/personal_portfolio/issues"
+  },
+  "homepage": "https://github.com/Jeren-A/personal_portfolio#readme"
 }
